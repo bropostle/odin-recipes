@@ -1,0 +1,25 @@
+.header {
+    font-size: 36px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header, .title {
+    text-align: center;
+}
+
+.title {
+    color:blue;
+    font-size: 30px;
+    background-color: orange;
+}
+
+.image {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    font-size: 24px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
